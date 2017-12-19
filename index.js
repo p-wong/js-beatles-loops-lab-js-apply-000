@@ -5,5 +5,5 @@ function theBeatlesPlay(musicians, instruments) {
   {
     myArray.push(musicians[i] + "plays " + instruments[i])
   }
-  
+  return myArray
 }
